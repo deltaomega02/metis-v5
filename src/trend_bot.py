@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 METIS v4 — BTC 현물 SMA125 추세추종 (룰 기반, AI 0, 무차입, 롱only).
-Claude×GPT-5.5 회의 수렴 결론. sqlite DB(metis_v4.db) + 텔레그램 + 24/7.
+전략 리서치 수렴 결론. sqlite DB(metis_v4.db) + 텔레그램 + 24/7.
 
 규칙 (하루 1회, UTC 일봉 마감 기준):
   CASH + 종가 > SMA125          → 전액 BTC 매수 (한도 METIS_V4_ALLOC)
