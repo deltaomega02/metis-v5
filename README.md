@@ -1,5 +1,7 @@
 # METIS V5 — 규칙 기반 현물 자동운용 (아카이브)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 BTC/ETH 추세추종 + BTC 펀딩 캐리(마켓 중립)를 병행하는 규칙 기반 시스템.
 
 ## 이 버전의 의미: AI를 제거한 결정
